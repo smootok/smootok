@@ -1,26 +1,20 @@
+### Hi there 👋
 
-Hi there 👋
+📍 Hailing from Morocco, I'm a dedicated Full Stack Developer with a passion for creating innovative and engaging web applications.
 
-I'm a Full Stack Developer from Morocco.
+🔧 Proficient in:
 
-Most used technologies
+<a href="https://reactjs.org/" target="_blank" title="React"><img src="icons/react.svg" alt="React" width="32" height="32" />
+<a href="https://nodejs.org/en/" target="_blank" title="Node.js"><img src="icons/nodejs.svg" alt="Node.js" width="32" height="32" />
+<a href="https://www.typescriptlang.org/" target="_blank" title="Typescript"><img src="icons/typescript.svg" alt="Typescript" width="32" height="32" />
+<a href="https://www.python.org/" target="_blank" title="Python"><img src="icons/python.svg" alt="Python" width="32" height="32" />
+<a href="https://www.mongodb.com/" target="_blank" title="MongoDB"><img src="icons/mongodb.svg" alt="MongoDB" width="32" height="32" />
+<a href="https://firebase.google.com/" target="_blank" title="Firebase"><img src="icons/firebase.svg" alt="Firebase" width="32" height="32" /></a>
+<a href="https://jestjs.io/" target="_blank" title="Jest"><img src="icons/jest.svg" alt="Jest" width="32" height="32" /></a>
+<a href="https://www.cypress.io/" target="_blank" title="Cypress"><img src="icons/cypress.svg" alt="Cypress" width="32" height="32" /></a>
 
-<a href="https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5" target="_blank"> ![HTML5 Badge](https://img.shields.io/badge/-HTML5-E34F26?&logo=html5&logoColor=white)</a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"> ![CSS3 Badge](https://img.shields.io/badge/-CSS3-1572B6?&logo=css3&logoColor=white)</a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> ![JavaScript Badge](https://img.shields.io/badge/-JavaScript-yellow?&logo=javascript&logoColor=white)</a>
-<a href="https://reactjs.org" target="_blank"> ![React Badge](https://img.shields.io/badge/-React-61DAFB?&logo=react&logoColor=white)</a>
+🌐 Building seamless user experiences and leveraging the power of modern technologies to bring ideas to life.
 
-<!--
-**smootok/smootok** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎮 When I'm not programming, I enjoy watching animes and playing video games.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Let's connect and create something amazing together!
