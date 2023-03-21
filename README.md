@@ -4,7 +4,7 @@
 
 🔧 Proficient in:
 
-<div style="display: flex;margin-bottom: 1rem;">
+<div style="display: flex;">
   <a href="https://reactjs.org/" target="_blank" title="React"><img src="icons/react.svg" alt="React" width="32" height="32" />
   <a href="https://nodejs.org/en/" target="_blank" title="Node.js"><img src="icons/nodejs.svg" alt="Node.js" width="32" height="32" />
   <a href="https://www.typescriptlang.org/" target="_blank" title="Typescript"><img src="icons/typescript.svg" alt="Typescript" width="32" height="32" />
@@ -14,7 +14,9 @@
   <a href="https://jestjs.io/" target="_blank" title="Jest"><img src="icons/jest.svg" alt="Jest" width="32" height="32" /></a>
   <a href="https://www.cypress.io/" target="_blank" title="Cypress"><img src="icons/cypress.svg" alt="Cypress" width="32" height="32" /></a>
 </div>
-
+    
+&nbsp;
+    
 🌐 Building seamless user experiences and leveraging the power of modern technologies to bring ideas to life.
 
 🎮 When I'm not programming, I enjoy watching animes and playing video games.
